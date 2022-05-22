@@ -1,12 +1,12 @@
 <xml1>
   <Id>A22</Id>
-  <Brief_description>The winning amounts on the selected lines are not shown in the game field when the 'Cherry' symbols appear on all reels</Brief_description>
+  <Bug_Summary>The winning amounts on the selected lines are not shown in the game field when the 'Cherry' symbols appear on all reels</Bug_Summaryn>
   <Type_of_bug>UI</Type_of_bug>
   <Severity>Major</Severity>
   <Environment>Windows 10 Pro /Internet Explorer, Google Chrome, Yandex.Browser; Android/ Internet Explorer, Google Chrome, Yandex.Browser; IOS/ Google Chrome, Safari</Environment>
   <Prerequisites>1. The main page of the game is open; 2. Lines – 2 is selected</Prerequisites>
-  <Playback_steps>1. Press the 'Spin' button until the 'Cherry' symbol appears on all reels</Playback_steps>
-  <The_actual_result>Does not show the winning amounts on the selected lines</The_actual_result>
-  <The_expected_result>Shows all the winnings on the lines, then a message appears about doubling the winnings ('X2')</The_expected_result>
+  <Steps_to_reproduce>1. Press the 'Spin' button until the 'Cherry' symbol appears on all reels</Steps_to_reproduce>
+  <Actual_result>Does not show the winning amounts on the selected lines</Actual_result>
+  <Expected_result>Shows all the winnings on the lines, then a message appears about doubling the winnings ('X2')</Expected_result>
   <Attachments>https://drive.google.com/file/d/1nCOWNHKmUe6AO9uAAnp8P35oecA4P60n/view?usp=sharing</Attachments>
   <Note>The error is also valid for when the 'Drain' symbols appear on all reels</Note>
