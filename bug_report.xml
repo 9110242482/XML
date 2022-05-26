@@ -3,7 +3,7 @@
   <Bug_Summary>The winning amounts on the selected lines are not shown in the game field when the 'Cherry' symbols appear on all reels</Bug_Summaryn>
   <Type_of_bug>UI</Type_of_bug>
   <Severity>Major</Severity>
-  <Environment>Windows 10 Pro /Microsoft Edge version 101.0.1210.53, Google Chrome version 101.0.4951.67, Yandex.Browser version 101.0.4951.67; Android/ Microsoft Edge version 101.0.1210.53, Google Chrome version 101.0.4951.67, Yandex.Browser version 21.11.2.773; IOS/ Google Chrome version 101.0.4951.67, Safari version 7.0</Environment>
+  <Environment>Windows 10 Pro/ Microsoft Edge version 101.0.1210.53, Google Chrome version 101.0.4951.67, Yandex.Browser version 101.0.4951.67; Android/ Microsoft Edge version 101.0.1210.53, Google Chrome version 101.0.4951.67, Yandex.Browser version 21.11.2.773; IOS/ Google Chrome version 101.0.4951.67, Safari version 7.0</Environment>
   <Prerequisites>1. The main page of the game is open; 2. Lines – 2 is selected</Prerequisites>
   <Steps_to_reproduce>1. Press the 'Spin' button until the 'Cherry' symbol appears on all reels</Steps_to_reproduce>
   <Actual_result>Does not show the winning amounts on the selected lines</Actual_result>
